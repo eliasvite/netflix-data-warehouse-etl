@@ -1,0 +1,26 @@
+#Ignore data directory containig heavy datasets
+data/
+
+#Ignore CSV files
+*.csv
+
+# Python Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local Databases (Data should stay local or in the cloud server, not in git)
+*.db
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
