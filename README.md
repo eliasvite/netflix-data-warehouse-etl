@@ -56,8 +56,11 @@ erDiagram
     Fact_Shows }|--|| Dim_Tiempo : "maps to"
     Fact_Shows }|--|| Dim_Geografia : "maps to"
     Fact_Shows }|--|| Dim_Categorias : "maps to"
-<<<<<<< HEAD
 ```
+
+
+<<<<<<< HEAD
+
 
 ![Pipeline Architecture](pipeline_netflix.png)
 =======
