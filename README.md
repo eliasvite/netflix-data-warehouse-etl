@@ -58,10 +58,4 @@ erDiagram
     Fact_Shows }|--|| Dim_Categorias : "maps to"
 ```
 
-
-<<<<<<< HEAD
-
-
 ![Pipeline Architecture](pipeline_architecture.png)
-=======
->>>>>>> 0eada75ad7b6e72915c7877217dda6dab57db8b2
